@@ -1,0 +1,5 @@
+Q1: What happens if users choose “Cancel”?
+chương trình sẽ hiển thị "You've chosen: No", vì Cancel không phải YES.
+
+Q2: How to customize the options?
+có thể thay đổi yes,no thành you do, you don't
