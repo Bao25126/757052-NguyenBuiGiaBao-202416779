@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+Q1: What happens if users choose “Cancel”?
+chương trình sẽ hiển thị "You've chosen: No", vì Cancel không phải YES.
+
+Q2: How to customize the options?
+có thể thay đổi yes,no thành you do, you don't
+=======
 Question:
 - If you create a constructor method to build a DVD by title then create a constructor method to build a DVD by category. Does JAVA allow you to do this?
 Answer: Không, Java không cho phép tạo 2 constructor chỉ khác nhau ở tên tham số và chỉ có thể tạo nhiều constructor nếu danh sách tham số khác nhau có thể là số lượng hoặc kiểu dữ liệu (str,int,...)
+>>>>>>> 2571066ee862e86267d4723d7891412a034cf378
