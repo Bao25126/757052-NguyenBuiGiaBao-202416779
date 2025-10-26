@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug TestPassingParameter",
+      "request": "launch",
+      "mainClass": "hust.soict.dsai.test.disc.TestPassingParameter",
+      "preLaunchTask": "javac: build"
+    },
+    {
+      "type": "java",
+      "name": "Debug CartTest",
+      "request": "launch",
+      "mainClass": "hust.soict.dsai.test.cart.CartTest",
+      "preLaunchTask": "javac: build"
+    },
+    {
+      "type": "java",
+      "name": "Debug ConcatenationInLoops",
+      "request": "launch",
+      "mainClass": "hust.soict.dsai.garbage.ConcatenationInLoops",
+      "preLaunchTask": "javac: build"
+    }
+  ]
+}
